@@ -24,7 +24,7 @@ As seguintes funcionialidades estão disponíveis:
 - [Keys](#keys)
   - [Comandos para gerenciar keys](#comandos-com-as-keys)
 - [Comandos](#comandos-principais)
-- [Como adquirir esse BOT](#como-adquirir)
+- [Como adquirir esse BOT?](#como-adquirir)
 - [Contato](#contato)
 
 
