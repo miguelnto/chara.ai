@@ -24,6 +24,7 @@ As seguintes funcionialidades estão disponíveis:
 - [Keys](#keys)
   - [Comandos para gerenciar keys](#comandos-com-as-keys)
 - [Comandos](#comandos-principais)
+- [Perguntas frequentes](#perguntas-frequentes)
 - [Como adquirir esse BOT?](#como-adquirir)
 - [Contato](#contato)
 
@@ -89,8 +90,10 @@ Envia uma mensagem para o personagem, e recebe uma resposta no chat.
 
 > Exemplo: `/chat "bom dia, como você está?"`
 
+---
+
 #### ⚙️ /setup - `pesquisa`
-Pesquise por um personagem, e selecione o personagem desejado clicando em "✔" no menu interativo. O BOT irá vincular o canal com um personagem, mudando então o nome e a descrição do canal.
+Pesquise por um personagem, e selecione o personagem desejado clicando em "✔" no menu interativo. O BOT irá vincular o canal com o personagem, mudando então o nome e a descrição do canal.
 
 > [!IMPORTANT]
 > O nome e a descrição do canal onde este comando foi usado **NÃO PODEM SER MUDADOS.** É importante manter nome e descrição para que o BOT reconheça informações sobre o personagem no qual você quer conversar.
@@ -98,6 +101,8 @@ Pesquise por um personagem, e selecione o personagem desejado clicando em "✔" 
 - `pesquisa` - O nome do personagem a ser pesquisado.
 
 > Exemplo: `/setup "thanos"` - *Um menu interativo será aberto para que você selecione o personagem.*
+
+---
 
 ## Perguntas frequentes
 
