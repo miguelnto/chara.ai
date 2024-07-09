@@ -15,7 +15,7 @@
 
 As seguintes funcionialidades estão disponíveis:
 
-- *Falar com personagens diferentes personagens disponível na plataforma character.ai.*
+- *Falar com personagens diferentes personagens disponíveis na plataforma `character.ai.`*
 - *Pesquisar por personagens.*
 
 ## Sumário
