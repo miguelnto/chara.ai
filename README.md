@@ -48,7 +48,7 @@ Se você tem todos esses requisitos, por favor siga os seguintes passos **na ord
 **2. Configure um canal para usar o BOT:**
   - Crie um canal com o nome do personagem. Como existem variedades de personagens com o mesmo nome no site, o BOT irá entender que você quer iniciar um chat com o personagem mais usado no site.
 > [!IMPORTANT]
-> O BOT separa os chats em forma de canais do servidor. Cada canal do seu servidor representa um chat com um personagem.
+> O BOT separa os chats em forma de canais do servidor. Cada canal do seu servidor representa um chat com um personagem diferente.
   - Alternativamente, é possível que você queira conversar uma versão específica de um personagem. Isso pode ser feito usando o comando `/setup`, onde você pode pesquisar por um personagem e vincular ele ao canal. Veja mais detalhes em [comandos.](#comandos-principais)
   - Tudo pronto, divirta-se!
 
