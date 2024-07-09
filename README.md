@@ -37,7 +37,7 @@ Requisitos:
 
 Se você tem todos esses requisitos, por favor siga os seguintes passos **na ordem:**
 
-- Configure a key:
+1. Configure a key:
   1.  Convide o BOT para seu servidor usando o link de convite.
   2.  Use o comando `/activate` junto com sua key para ativar o BOT. Se você digitou corretamente, o BOT alertará que a key foi ativada com sucesso.
   > Exemplo: `/activate "7Z8V-LIFO-2W5T"`
@@ -45,11 +45,11 @@ Se você tem todos esses requisitos, por favor siga os seguintes passos **na ord
   4. Pronto! O BOT já está configurado e pode ser usado. Confira todos os comandos disponíveis na seção [comandos](#comandos-principais).
   5. Em caso de dúvidas, por favor leia mais informações sobre as keys na seção [abaixo](#keys).
 
-- Configure um canal para usar o BOT:
-  1. Crie um canal com o nome do personagem. Como existem variedades de personagens com o mesmo nome no site, o BOT irá entender que você quer iniciar um chat com o personagem mais usado no site.
+2. Configure um canal para usar o BOT:
+  - Crie um canal com o nome do personagem. Como existem variedades de personagens com o mesmo nome no site, o BOT irá entender que você quer iniciar um chat com o personagem mais usado no site.
 > [!IMPORTANT]
 > Caso o nome do personagem esteja errado ou não exista, o BOT irá alertar que não existe um personagem com o nome especificado no canal.
-  2. Alternativamente, é possível que você queira conversar uma versão específica de um personagem. Isso pode ser feito usando o comando `/setup`, onde você pode pesquisar por um personagem e vincular ele ao canal. Veja mais detalhes em [comandos](#comandos-principais)
+  - Alternativamente, é possível que você queira conversar uma versão específica de um personagem. Isso pode ser feito usando o comando `/setup`, onde você pode pesquisar por um personagem e vincular ele ao canal. Veja mais detalhes em [comandos](#comandos-principais)
 
 ## Keys
 
