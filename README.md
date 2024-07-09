@@ -87,7 +87,30 @@ Envia uma mensagem para o personagem, e recebe uma resposta no chat.
 
 - `prompt` - A mensagem que deve ser enviada ao bot.
 
-> Exemplo: `/chat "bom dia, thanos!"`
+> Exemplo: `/chat "bom dia, como você está?"`
+
+#### ⚙️ /setup - `pesquisa`
+Pesquise por um personagem, e selecione o personagem desejado clicando em "✔" no menu interativo. O BOT irá vincular o canal com um personagem, mudando então o nome e a descrição do canal.
+
+> [!IMPORTANT]
+> O nome e a descrição do canal onde este comando foi usado **NÃO PODEM SER MUDADOS.** É importante manter nome e descrição para que o BOT reconheça informações sobre o personagem no qual você quer conversar.
+
+- `pesquisa` - O nome do personagem a ser pesquisado.
+
+> Exemplo: `/setup "thanos"` - *Um menu interativo será aberto para que você selecione o personagem.*
+
+## Perguntas frequentes
+
+Se você tem outra dúvida além das listadas abaixo, basta abrir um ticket no nosso [canal oficial do Discord.](https://discord.gg/M7FURN5R88)
+
+- É possível ter conversas com temática NSFW com o BOT?
+> Não, já que a própria plataforma filtra esse tipo de conversa e bloqueia respostas do personagem. Por favor não tente.
+
+- Pretende adicionar novas funcionalidades?
+> Eu não faço uso da plataforma, então não sei quais outras funcionalidades existem ou quais outras podem vir a existir. Eu estou sempre aceitando sugestões/ideias, então se você tem alguma, por favor [entre em contato.](#contato)
+
+- O histórico das conversas fica "gravado"?
+> Sim. O personagem tem acesso para a conversa inteira que você teve com ele, então você pode adicionar contexto nas suas falas.
 
 ## Como adquirir
 
