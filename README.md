@@ -2,9 +2,11 @@
 
 # chara.ai
 
-**Documentação de referência para usuários do BOT chara.ai, trazendo os seus personagens preferidos para a palma da sua mão.**
+**Documentação oficial de referência para usuários do BOT chara.ai.**
 
 ![chara.ai](charaai.png)
+
+**Trazendo os seus personagens preferidos para a palma da sua mão.**
 
 [![produto-hyperstore](https://img.shields.io/badge/produto%20hyperstore-%232B2F33.svg?style=for-the-badge&logoColor=white)](https://discord.gg/M7FURN5R88)
 ![discord-bot](https://img.shields.io/badge/discord%20bot-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
@@ -25,7 +27,7 @@ As seguintes funcionialidades estão disponíveis:
   - [Comandos para gerenciar keys](#comandos-com-as-keys)
 - [Comandos](#comandos-principais)
 - [Perguntas frequentes](#perguntas-frequentes)
-- [Como adquirir esse BOT?](#como-adquirir)
+- [Adquira este BOT](#como-adquirir)
 - [Contato](#contato)
 
 
