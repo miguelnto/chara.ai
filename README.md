@@ -2,7 +2,7 @@
 
 # chara.ai
 
-**Documentação oficial de referência para usuários do BOT chara.ai.**
+**Documentação oficial para usuários do BOT chara.ai.**
 
 ![chara.ai](charaai.png)
 
