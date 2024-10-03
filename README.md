@@ -126,12 +126,17 @@ Se você tem outra dúvida além das listadas abaixo, basta abrir um ticket no n
 [![produto-hyperstore](https://img.shields.io/badge/adquirir%20produto-%232B2F33.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/M7FURN5R88)
 ![suporte-e-garantia](https://img.shields.io/badge/%E2%9C%94%20garantia%20e%20%20suporte-%23107C10.svg?style=for-the-badge&logoColor=white)
 
+## Como adquirir
+
+**Você pode adquirir este BOT oficialmente no nosso [canal oficial do Discord.](https://discord.gg/M7FURN5R88) Você também encontrará o histórico de atualizações e poderá entrar em contato com o suporte.**
+
+[![produto-hyperstore](https://img.shields.io/badge/adquirir%20produto-%232B2F33.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/M7FURN5R88)
+![suporte-e-garantia](https://img.shields.io/badge/%E2%9C%94%20garantia%20e%20%20suporte-%23107C10.svg?style=for-the-badge&logoColor=white)
+
 ## Contato
 
-🚀 **Esse BOT foi desenvolvido com carinho por Miguel, desenvolvedor full stack.**
+**Nos links abaixo, você pode entrar em contato comigo ou fazer parte do servidor oficial deste BOT:**
 
-Todos os links de contato estão abaixo. Vem trocar uma ideia comigo! 🖖
-
-- **Email: miguelup01@outlook.com**
 - **Servidor: [HyperStore](https://discord.gg/M7FURN5R88)**
 - **Discord: miguelnto**
+
