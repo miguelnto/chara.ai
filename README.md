@@ -102,7 +102,7 @@ Pesquise por um personagem, e selecione o personagem desejado clicando em "✔" 
 
 - `pesquisa` - O nome do personagem a ser pesquisado.
 
-> Exemplo: `/setup "thanos"` - *Um menu interativo será aberto para que você selecione o personagem.*
+> Exemplo: `/setup "thanos"` - *Um menu interativo será aberto para que você selecione o personagem. Neste caso, o Thanos.*
 
 ---
 
