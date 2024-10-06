@@ -108,7 +108,7 @@ Pesquise por um personagem, e selecione o personagem desejado clicando em "✔" 
 
 ## Perguntas frequentes
 
-Se você tem outra dúvida além das listadas abaixo, basta abrir um ticket no nosso [canal oficial do Discord.](https://discord.gg/M7FURN5R88) Iremos responder você rápido igual uma lebre! 🐇
+Se você tem outra dúvida além das listadas abaixo, basta abrir um ticket no nosso [canal oficial do Discord.](https://discord.gg/M7FURN5R88) Iremos responder você o mais rápido possível!
 
 - É possível ter conversas com temática NSFW com o BOT?
 > Não, já que a própria plataforma filtra esse tipo de conversa e bloqueia respostas do personagem. Por favor não tente.
