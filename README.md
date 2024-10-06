@@ -19,6 +19,7 @@ As principais funcionalidades são:
 
 - *Falar com diferentes personagens disponíveis na plataforma `character.ai.`*
 - *Pesquisar por personagens.*
+- *Organizar chats com os personagens através de canais em seu servidor.*
 
 ## Sumário
 
